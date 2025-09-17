@@ -1,0 +1,1602 @@
+[
+  {
+    "log_id": 185,
+    "train_id": "KMRL-T21",
+    "maintenance_date": "2018-01-03",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 12367
+  },
+  {
+    "log_id": 25,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2018-01-06",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 14267
+  },
+  {
+    "log_id": 1,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2018-01-10",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 11057
+  },
+  {
+    "log_id": 191,
+    "train_id": "KMRL-T23",
+    "maintenance_date": "2018-01-26",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 23292
+  },
+  {
+    "log_id": 71,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2018-01-29",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 6290
+  },
+  {
+    "log_id": 122,
+    "train_id": "KMRL-T12",
+    "maintenance_date": "2018-01-30",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 24043
+  },
+  {
+    "log_id": 72,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2018-02-09",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 21126
+  },
+  {
+    "log_id": 61,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2018-02-24",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 17798
+  },
+  {
+    "log_id": 92,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2018-03-05",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 13783
+  },
+  {
+    "log_id": 93,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2018-03-14",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 19400
+  },
+  {
+    "log_id": 177,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2018-03-24",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 24997
+  },
+  {
+    "log_id": 134,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2018-04-18",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 18582
+  },
+  {
+    "log_id": 186,
+    "train_id": "KMRL-T21",
+    "maintenance_date": "2018-04-25",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 24584
+  },
+  {
+    "log_id": 36,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2018-04-26",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 6695
+  },
+  {
+    "log_id": 73,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2018-05-08",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 28366
+  },
+  {
+    "log_id": 26,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2018-05-26",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 20401
+  },
+  {
+    "log_id": 82,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2018-06-10",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 19319
+  },
+  {
+    "log_id": 27,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2018-07-19",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 26917
+  },
+  {
+    "log_id": 147,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2018-07-29",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 22467
+  },
+  {
+    "log_id": 62,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2018-08-20",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 23963
+  },
+  {
+    "log_id": 2,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2018-09-16",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 25375
+  },
+  {
+    "log_id": 106,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2018-09-20",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 14407
+  },
+  {
+    "log_id": 50,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2018-09-23",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 22705
+  },
+  {
+    "log_id": 168,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2018-09-23",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 11971
+  },
+  {
+    "log_id": 28,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2018-09-30",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 33283
+  },
+  {
+    "log_id": 37,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2018-10-23",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 19185
+  },
+  {
+    "log_id": 197,
+    "train_id": "KMRL-T25",
+    "maintenance_date": "2018-11-18",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 7329
+  },
+  {
+    "log_id": 94,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2018-12-03",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 34696
+  },
+  {
+    "log_id": 117,
+    "train_id": "KMRL-T11",
+    "maintenance_date": "2018-12-08",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 23988
+  },
+  {
+    "log_id": 127,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2018-12-10",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 16550
+  },
+  {
+    "log_id": 169,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2018-12-18",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 17812
+  },
+  {
+    "log_id": 170,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2018-12-25",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 23063
+  },
+  {
+    "log_id": 198,
+    "train_id": "KMRL-T25",
+    "maintenance_date": "2019-01-29",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 17996
+  },
+  {
+    "log_id": 199,
+    "train_id": "KMRL-T25",
+    "maintenance_date": "2019-02-25",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 28675
+  },
+  {
+    "log_id": 3,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2019-04-14",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 44596
+  },
+  {
+    "log_id": 95,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2019-04-19",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 44901
+  },
+  {
+    "log_id": 107,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2019-04-23",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 26417
+  },
+  {
+    "log_id": 194,
+    "train_id": "KMRL-T24",
+    "maintenance_date": "2019-05-06",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 16592
+  },
+  {
+    "log_id": 29,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2019-05-26",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 45514
+  },
+  {
+    "log_id": 4,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2019-07-07",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 50887
+  },
+  {
+    "log_id": 148,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2019-07-08",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 39269
+  },
+  {
+    "log_id": 123,
+    "train_id": "KMRL-T12",
+    "maintenance_date": "2019-07-17",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 34786
+  },
+  {
+    "log_id": 5,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2019-08-14",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 61380
+  },
+  {
+    "log_id": 149,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2019-08-17",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 57085
+  },
+  {
+    "log_id": 162,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2019-09-23",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 6950
+  },
+  {
+    "log_id": 153,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2019-09-28",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 13723
+  },
+  {
+    "log_id": 83,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2019-10-03",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Tested emergency brake system.",
+    "km_at_maintenance": 34617
+  },
+  {
+    "log_id": 163,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2019-10-03",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 16601
+  },
+  {
+    "log_id": 38,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2019-10-04",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 38912
+  },
+  {
+    "log_id": 84,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2019-10-17",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 45085
+  },
+  {
+    "log_id": 135,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2019-10-23",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 26553
+  },
+  {
+    "log_id": 118,
+    "train_id": "KMRL-T11",
+    "maintenance_date": "2019-11-13",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 40546
+  },
+  {
+    "log_id": 136,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2019-11-13",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 38557
+  },
+  {
+    "log_id": 171,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2019-11-20",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 40825
+  },
+  {
+    "log_id": 39,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2019-11-28",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 56752
+  },
+  {
+    "log_id": 40,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2019-12-02",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 73282
+  },
+  {
+    "log_id": 85,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2019-12-06",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 54390
+  },
+  {
+    "log_id": 128,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2020-01-05",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 21925
+  },
+  {
+    "log_id": 178,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2020-01-26",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 30400
+  },
+  {
+    "log_id": 51,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2020-01-28",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 42703
+  },
+  {
+    "log_id": 52,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2020-01-29",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 59710
+  },
+  {
+    "log_id": 30,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2020-02-03",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 64707
+  },
+  {
+    "log_id": 179,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2020-02-06",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 37548
+  },
+  {
+    "log_id": 6,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2020-02-17",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 77296
+  },
+  {
+    "log_id": 172,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2020-02-22",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 57551
+  },
+  {
+    "log_id": 63,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2020-03-10",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 38227
+  },
+  {
+    "log_id": 180,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2020-03-10",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 55263
+  },
+  {
+    "log_id": 86,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2020-03-12",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 60221
+  },
+  {
+    "log_id": 200,
+    "train_id": "KMRL-T25",
+    "maintenance_date": "2020-03-20",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 42337
+  },
+  {
+    "log_id": 108,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2020-04-17",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 33506
+  },
+  {
+    "log_id": 7,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2020-05-14",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 90427
+  },
+  {
+    "log_id": 87,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2020-05-31",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 76086
+  },
+  {
+    "log_id": 96,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2020-07-16",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 54344
+  },
+  {
+    "log_id": 74,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2020-08-16",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 36310
+  },
+  {
+    "log_id": 154,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2020-09-04",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 22114
+  },
+  {
+    "log_id": 187,
+    "train_id": "KMRL-T21",
+    "maintenance_date": "2020-09-29",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Tested emergency brake system.",
+    "km_at_maintenance": 32547
+  },
+  {
+    "log_id": 97,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2020-10-21",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 72854
+  },
+  {
+    "log_id": 8,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2020-10-22",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 98888
+  },
+  {
+    "log_id": 129,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2020-10-24",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 32489
+  },
+  {
+    "log_id": 109,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2020-11-20",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 39525
+  },
+  {
+    "log_id": 173,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2020-12-26",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 69803
+  },
+  {
+    "log_id": 31,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2020-12-31",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 78007
+  },
+  {
+    "log_id": 75,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2021-01-26",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 45652
+  },
+  {
+    "log_id": 164,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2021-02-12",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 23767
+  },
+  {
+    "log_id": 9,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2021-03-04",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 105165
+  },
+  {
+    "log_id": 98,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2021-04-01",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 88317
+  },
+  {
+    "log_id": 64,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2021-04-03",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 47673
+  },
+  {
+    "log_id": 53,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2021-04-16",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 69162
+  },
+  {
+    "log_id": 65,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2021-05-01",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 65408
+  },
+  {
+    "log_id": 130,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2021-05-22",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Performed full diagnostic on control system.",
+    "km_at_maintenance": 44202
+  },
+  {
+    "log_id": 192,
+    "train_id": "KMRL-T23",
+    "maintenance_date": "2021-05-25",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 36179
+  },
+  {
+    "log_id": 15,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2021-05-31",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 10942
+  },
+  {
+    "log_id": 66,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2021-06-01",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Tested emergency brake system.",
+    "km_at_maintenance": 73624
+  },
+  {
+    "log_id": 99,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2021-07-06",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 101726
+  },
+  {
+    "log_id": 41,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2021-07-12",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 79638
+  },
+  {
+    "log_id": 110,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2021-07-20",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 51654
+  },
+  {
+    "log_id": 42,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2021-07-23",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 93992
+  },
+  {
+    "log_id": 137,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2021-08-14",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 56924
+  },
+  {
+    "log_id": 165,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2021-10-20",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 35396
+  },
+  {
+    "log_id": 16,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2021-10-22",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 23797
+  },
+  {
+    "log_id": 54,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2021-10-30",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 82617
+  },
+  {
+    "log_id": 141,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2021-12-05",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 20183
+  },
+  {
+    "log_id": 155,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2022-01-10",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 41845
+  },
+  {
+    "log_id": 17,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2022-01-16",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 31078
+  },
+  {
+    "log_id": 88,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2022-04-11",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 85254
+  },
+  {
+    "log_id": 55,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2022-04-16",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 91363
+  },
+  {
+    "log_id": 131,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2022-04-20",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 50502
+  },
+  {
+    "log_id": 142,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2022-06-26",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Performed full diagnostic on control system.",
+    "km_at_maintenance": 37406
+  },
+  {
+    "log_id": 32,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2022-08-02",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 83224
+  },
+  {
+    "log_id": 18,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2022-08-20",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 39713
+  },
+  {
+    "log_id": 100,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2022-08-27",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 107656
+  },
+  {
+    "log_id": 101,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2022-09-05",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 115791
+  },
+  {
+    "log_id": 19,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2022-10-13",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 51559
+  },
+  {
+    "log_id": 10,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2022-10-29",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 117351
+  },
+  {
+    "log_id": 119,
+    "train_id": "KMRL-T11",
+    "maintenance_date": "2022-11-27",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 49096
+  },
+  {
+    "log_id": 138,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2022-12-08",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 65218
+  },
+  {
+    "log_id": 150,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2022-12-09",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 67483
+  },
+  {
+    "log_id": 195,
+    "train_id": "KMRL-T24",
+    "maintenance_date": "2023-01-04",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 22980
+  },
+  {
+    "log_id": 11,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2023-01-29",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 137333
+  },
+  {
+    "log_id": 124,
+    "train_id": "KMRL-T12",
+    "maintenance_date": "2023-02-07",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 51610
+  },
+  {
+    "log_id": 132,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2023-03-04",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 59373
+  },
+  {
+    "log_id": 181,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2023-03-17",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 73115
+  },
+  {
+    "log_id": 56,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2023-03-19",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 104420
+  },
+  {
+    "log_id": 89,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2023-04-04",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 94688
+  },
+  {
+    "log_id": 20,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2023-04-26",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 66811
+  },
+  {
+    "log_id": 76,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2023-05-21",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 64622
+  },
+  {
+    "log_id": 156,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2023-06-14",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 53709
+  },
+  {
+    "log_id": 102,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2023-06-20",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 126669
+  },
+  {
+    "log_id": 90,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2023-06-24",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 111026
+  },
+  {
+    "log_id": 111,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2023-07-01",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 68752
+  },
+  {
+    "log_id": 43,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2023-07-17",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 112888
+  },
+  {
+    "log_id": 67,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2023-07-25",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 93232
+  },
+  {
+    "log_id": 77,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2023-08-04",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 75446
+  },
+  {
+    "log_id": 44,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2023-08-10",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 124232
+  },
+  {
+    "log_id": 33,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2023-09-11",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 99861
+  },
+  {
+    "log_id": 68,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2023-09-23",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 101425
+  },
+  {
+    "log_id": 151,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2023-10-03",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 83479
+  },
+  {
+    "log_id": 174,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2023-11-03",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 86258
+  },
+  {
+    "log_id": 120,
+    "train_id": "KMRL-T11",
+    "maintenance_date": "2023-11-08",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 66104
+  },
+  {
+    "log_id": 143,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2023-11-15",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 50253
+  },
+  {
+    "log_id": 21,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2023-11-19",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 79952
+  },
+  {
+    "log_id": 103,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2023-12-02",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 136716
+  },
+  {
+    "log_id": 121,
+    "train_id": "KMRL-T11",
+    "maintenance_date": "2023-12-20",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 71954
+  },
+  {
+    "log_id": 144,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2024-01-10",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 70113
+  },
+  {
+    "log_id": 190,
+    "train_id": "KMRL-T22",
+    "maintenance_date": "2024-01-16",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 16736
+  },
+  {
+    "log_id": 112,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2024-01-27",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 78980
+  },
+  {
+    "log_id": 78,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2024-01-29",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 84184
+  },
+  {
+    "log_id": 45,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2024-02-01",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 132221
+  },
+  {
+    "log_id": 34,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2024-02-15",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 115838
+  },
+  {
+    "log_id": 57,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2024-02-23",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 111826
+  },
+  {
+    "log_id": 58,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2024-02-29",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 121814
+  },
+  {
+    "log_id": 12,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2024-03-30",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 153513
+  },
+  {
+    "log_id": 125,
+    "train_id": "KMRL-T12",
+    "maintenance_date": "2024-06-12",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 65578
+  },
+  {
+    "log_id": 79,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2024-06-21",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked and tightened all bogie fasteners.",
+    "km_at_maintenance": 91158
+  },
+  {
+    "log_id": 46,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2024-06-29",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Checked and topped up hydraulic fluids.",
+    "km_at_maintenance": 142855
+  },
+  {
+    "log_id": 104,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2024-07-18",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 141979
+  },
+  {
+    "log_id": 182,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2024-07-25",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 89651
+  },
+  {
+    "log_id": 113,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2024-07-29",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 90978
+  },
+  {
+    "log_id": 59,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2024-07-30",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn brake pads and tested system.",
+    "km_at_maintenance": 137957
+  },
+  {
+    "log_id": 166,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2024-08-04",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 43972
+  },
+  {
+    "log_id": 157,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2024-08-06",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 62718
+  },
+  {
+    "log_id": 22,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2024-08-19",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Performed full diagnostic on control system.",
+    "km_at_maintenance": 85275
+  },
+  {
+    "log_id": 23,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2024-08-31",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 103177
+  },
+  {
+    "log_id": 60,
+    "train_id": "KMRL-T05",
+    "maintenance_date": "2024-09-19",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 150823
+  },
+  {
+    "log_id": 35,
+    "train_id": "KMRL-T03",
+    "maintenance_date": "2024-09-24",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 121871
+  },
+  {
+    "log_id": 47,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2024-09-29",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Checked PA system and fixed loose wiring.",
+    "km_at_maintenance": 157984
+  },
+  {
+    "log_id": 13,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2024-10-02",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 167889
+  },
+  {
+    "log_id": 158,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2024-10-06",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 82570
+  },
+  {
+    "log_id": 14,
+    "train_id": "KMRL-T01",
+    "maintenance_date": "2024-10-17",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 187307
+  },
+  {
+    "log_id": 175,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2024-11-18",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 105192
+  },
+  {
+    "log_id": 152,
+    "train_id": "KMRL-T16",
+    "maintenance_date": "2024-11-24",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 90264
+  },
+  {
+    "log_id": 167,
+    "train_id": "KMRL-T18",
+    "maintenance_date": "2024-12-27",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 56402
+  },
+  {
+    "log_id": 183,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2024-12-30",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 98681
+  },
+  {
+    "log_id": 145,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2025-01-19",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Performed full diagnostic on control system.",
+    "km_at_maintenance": 75327
+  },
+  {
+    "log_id": 114,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2025-02-03",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 103344
+  },
+  {
+    "log_id": 48,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2025-02-17",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 177619
+  },
+  {
+    "log_id": 80,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2025-02-22",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Replaced worn-out wiper blades.",
+    "km_at_maintenance": 110901
+  },
+  {
+    "log_id": 105,
+    "train_id": "KMRL-T09",
+    "maintenance_date": "2025-02-28",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Performed full diagnostic on control system.",
+    "km_at_maintenance": 156954
+  },
+  {
+    "log_id": 184,
+    "train_id": "KMRL-T20",
+    "maintenance_date": "2025-03-17",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Repaired minor seat damage in coach B.",
+    "km_at_maintenance": 114684
+  },
+  {
+    "log_id": 24,
+    "train_id": "KMRL-T02",
+    "maintenance_date": "2025-04-08",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 112116
+  },
+  {
+    "log_id": 159,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2025-04-09",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Cleaned and disinfected passenger area.",
+    "km_at_maintenance": 99695
+  },
+  {
+    "log_id": 139,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2025-04-10",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 82697
+  },
+  {
+    "log_id": 188,
+    "train_id": "KMRL-T21",
+    "maintenance_date": "2025-05-07",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Replaced faulty passenger display unit.",
+    "km_at_maintenance": 47987
+  },
+  {
+    "log_id": 189,
+    "train_id": "KMRL-T21",
+    "maintenance_date": "2025-05-08",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Inspected coupler and locking mechanism.",
+    "km_at_maintenance": 55320
+  },
+  {
+    "log_id": 115,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2025-05-10",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Overhauled traction motor and updated records.",
+    "km_at_maintenance": 114734
+  },
+  {
+    "log_id": 133,
+    "train_id": "KMRL-T13",
+    "maintenance_date": "2025-05-27",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Tested emergency brake system.",
+    "km_at_maintenance": 73994
+  },
+  {
+    "log_id": 91,
+    "train_id": "KMRL-T08",
+    "maintenance_date": "2025-06-15",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected and cleaned wheelsets.",
+    "km_at_maintenance": 121721
+  },
+  {
+    "log_id": 160,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2025-06-15",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 105998
+  },
+  {
+    "log_id": 69,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2025-06-17",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 115734
+  },
+  {
+    "log_id": 196,
+    "train_id": "KMRL-T24",
+    "maintenance_date": "2025-06-24",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 30924
+  },
+  {
+    "log_id": 161,
+    "train_id": "KMRL-T17",
+    "maintenance_date": "2025-06-29",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Lubricated door mechanisms and checked alignment.",
+    "km_at_maintenance": 125914
+  },
+  {
+    "log_id": 126,
+    "train_id": "KMRL-T12",
+    "maintenance_date": "2025-07-10",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Tested emergency brake system.",
+    "km_at_maintenance": 84227
+  },
+  {
+    "log_id": 176,
+    "train_id": "KMRL-T19",
+    "maintenance_date": "2025-07-12",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 110652
+  },
+  {
+    "log_id": 70,
+    "train_id": "KMRL-T06",
+    "maintenance_date": "2025-07-27",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Inspected HVAC filters and replaced as needed.",
+    "km_at_maintenance": 124535
+  },
+  {
+    "log_id": 140,
+    "train_id": "KMRL-T14",
+    "maintenance_date": "2025-07-28",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 93026
+  },
+  {
+    "log_id": 49,
+    "train_id": "KMRL-T04",
+    "maintenance_date": "2025-08-11",
+    "type_of_maintenance": "Scheduled B-Check",
+    "notes": "Corrected minor electrical fault in lighting.",
+    "km_at_maintenance": 196845
+  },
+  {
+    "log_id": 193,
+    "train_id": "KMRL-T23",
+    "maintenance_date": "2025-08-13",
+    "type_of_maintenance": "Scheduled A-Check",
+    "notes": "Replaced air compressor belt.",
+    "km_at_maintenance": 54178
+  },
+  {
+    "log_id": 81,
+    "train_id": "KMRL-T07",
+    "maintenance_date": "2025-08-27",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Cleaned and calibrated speed sensors.",
+    "km_at_maintenance": 116070
+  },
+  {
+    "log_id": 116,
+    "train_id": "KMRL-T10",
+    "maintenance_date": "2025-09-01",
+    "type_of_maintenance": "Component Overhaul",
+    "notes": "Updated onboard software to latest version.",
+    "km_at_maintenance": 125400
+  },
+  {
+    "log_id": 146,
+    "train_id": "KMRL-T15",
+    "maintenance_date": "2025-09-15",
+    "type_of_maintenance": "Corrective Repair",
+    "notes": "Adjusted pantograph for optimal contact.",
+    "km_at_maintenance": 93489
+  }
+]

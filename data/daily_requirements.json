@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-09-18",
+    "day_of_week": "Thursday",
+    "service_trains_required": 21,
+    "standby_trains_required": 4,
+    "special_event": null
+  },
+  {
+    "date": "2025-09-19",
+    "day_of_week": "Friday",
+    "service_trains_required": 22,
+    "standby_trains_required": 3,
+    "special_event": null
+  },
+  {
+    "date": "2025-09-20",
+    "day_of_week": "Saturday",
+    "service_trains_required": 17,
+    "standby_trains_required": 3,
+    "special_event": "City Marathon Event"
+  },
+  {
+    "date": "2025-09-21",
+    "day_of_week": "Sunday",
+    "service_trains_required": 16,
+    "standby_trains_required": 3,
+    "special_event": null
+  },
+  {
+    "date": "2025-09-22",
+    "day_of_week": "Monday",
+    "service_trains_required": 22,
+    "standby_trains_required": 3,
+    "special_event": null
+  },
+  {
+    "date": "2025-09-23",
+    "day_of_week": "Tuesday",
+    "service_trains_required": 22,
+    "standby_trains_required": 3,
+    "special_event": null
+  },
+  {
+    "date": "2025-09-24",
+    "day_of_week": "Wednesday",
+    "service_trains_required": 21,
+    "standby_trains_required": 4,
+    "special_event": null
+  }
+]
