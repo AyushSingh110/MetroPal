@@ -23,14 +23,21 @@ const SearchCard = () => {
                         label="Search by ID, fleet, or route..."
                         variant="outlined"
                         fullWidth
-                        sx={{ marginRight: 2,
-                            "& .MuiInputLabel-root": { color: "white" },  
+                        sx={{ 
+                            marginRight: 2,
+                            "& .MuiInputLabel-root": { color: "whitesmoke" },  
                             "& .MuiOutlinedInput-root": {
-                                "& fieldset": {
-                                    borderColor: "#f7941c", 
-                                }, 
+                            "& fieldset": {
+                                borderColor: "#f7941c", 
+                            }, 
+                            "&:hover fieldset": {
+                                borderColor: "#f6a33dff",
                             },
-                            '& .MuiInputBase-input::placeholder': {
+                            },
+                            "& .MuiInputBase-input": {
+                            color: "whitesmoke", 
+                            },
+                            "& .MuiInputBase-input::placeholder": {
                             color: '#a0a0a0',
                             opacity: 1,
                             },
