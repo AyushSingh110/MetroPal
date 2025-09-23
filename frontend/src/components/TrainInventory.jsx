@@ -57,7 +57,7 @@ const TrainInventory = () => {
                         key={train.id}
                         hover
                         onClick={() => handleRowClick(train)}
-                        sx={{ cursor: "pointer", backgroundColor: '#6a4608ff',opacity:1,color:'whitesmoke' }} 
+                        sx={{ cursor: "pointer", backgroundColor: '#595a5dff',opacity:1,color:'whitesmoke' }} 
                       >
                         <TableCell sx={{fontWeight:'bold'}}>{train.id}</TableCell>
                         <TableCell sx={{fontWeight:'bold'}}>{train.fleet}</TableCell>

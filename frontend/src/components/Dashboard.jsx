@@ -5,6 +5,7 @@ import RouteVisualizer from "./RouteVisualizer";
 import OptimizationSliders from "./optimizationSliders";
 import TrainInventory from "./TrainInventory";
 import PerformanceCard from "./Performance";
+import AutoDraft from "./AutoDraft";
 
 const Dashboard = () => {
   return (
@@ -143,9 +144,17 @@ const Dashboard = () => {
             <Grid item xs={12} md={6}>
               <TrainInventory />
             </Grid>
-
+            
             <Grid item xs={12} md={6}>
-              <PerformanceCard /> 
+              <Grid container spacing={3} direction="column">
+                <Grid item xs={12}>
+                  <AutoDraft />
+                </Grid>
+
+                <Grid item xs={12}>
+                  <PerformanceCard />
+                </Grid>
+              </Grid>
             </Grid>
           </Grid>
         </Grid>

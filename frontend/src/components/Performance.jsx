@@ -14,8 +14,8 @@ const PerformanceCard = () => {
         width:'500px',
         margin:'auto',
         marginTop:6,
+        ml:0,
         border: '1px solid #f6a33dff',
-        boxShadow: 3,
       }}
     >
       
