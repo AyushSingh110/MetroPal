@@ -11,7 +11,7 @@ const TrainInventory = () => {
 
   const fetchData = (d=null) => {
     setLoading(true);
-    let url = "http://localhost:5000/api/full_trains";
+    let url = "http://localhost:5000/api/traininventory";
     if (d) url += `?date=${d}`;
     fetch(url)
       .then(r=>r.json())

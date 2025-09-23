@@ -3,6 +3,9 @@ from flask_cors import CORS
 import os, json, datetime
 from data_loader import load_trains, load_maintenance_logs, load_daily_requirements, load_full_train_data
 from optimizer import optimize
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from models import TrainInventory
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 AUDIT_FILE = os.path.join(BASE_DIR, "backend_audit.json")
@@ -10,16 +13,43 @@ AUDIT_FILE = os.path.join(BASE_DIR, "backend_audit.json")
 app = Flask(__name__)
 CORS(app)
 
+engine = create_engine("sqlite:///metro.db")
+Session = sessionmaker(bind=engine)
+
+@app.route("/api/traininventory", methods=["GET"])
+def get_train_inventory():
+    session = Session()
+    date_filter = request.args.get("date")
+
+    query = session.query(TrainInventory)
+    if date_filter:
+        try:
+            parsed_date = datetime.datetime.strptime(date_filter, "%Y-%m-%d").date()
+            query = query.filter(TrainInventory.date == parsed_date)
+        except ValueError:
+            pass
+
+    trains = query.all()
+    session.close()
+
+    result = [
+        {
+            "train_id": t.train_id,
+            "recommended_action": t.recommended_action,
+            "fitness_score": t.fitness_score,
+            "last_maintenance_date": str(t.last_maintenance_date) if t.last_maintenance_date else None,
+            "total_mileage": t.total_mileage,
+            "branding_active": bool(t.branding_active),
+        }
+        for t in trains
+    ]
+
+    return jsonify(result)
+
+
 @app.route("/api/trains", methods=["GET"])
 def api_trains():
     return jsonify(load_trains())
-
-@app.route("/api/full_trains", methods=["GET"])
-def api_full_trains():
-    # optional date parameter ?date=YYYY-MM-DD
-    date = request.args.get("date")
-    data = load_full_train_data(date)
-    return jsonify(data)
 
 @app.route("/api/maintenance", methods=["GET"])
 def api_maintenance():
