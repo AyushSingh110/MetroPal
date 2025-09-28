@@ -32,20 +32,29 @@ const TrainTimeline = ({ stops }) => {
     return (
         <Box sx={{ p: 2, overflowY: 'auto', height: '100%', maxWidth: '100%' }}>
             <Box sx={{ display: 'flex', justifyContent: 'space-between', mb: 2, borderBottom: '1px solid #404455', pb: 1, color: '#a0a0a0' }}>
-                <Typography variant="caption" sx={{ fontWeight: 'bold' }}>Arrival</Typography>
-                <Typography variant="caption" sx={{ fontWeight: 'bold' }}>Day 1 - Sep 28, Sun</Typography>
-                <Typography variant="caption" sx={{ fontWeight: 'bold' }}>Departure</Typography>
+                <Typography variant="caption" sx={{ fontWeight: 'bold', width: '20%',ml:11 }}>Arrival</Typography> 
+                <Typography variant="caption" sx={{ fontWeight: 'bold', flexGrow: 1, textAlign: 'center' }}>Day 1 - Sep 28, Sun</Typography>
+                <Typography variant="caption" sx={{ fontWeight: 'bold', width: '20%', textAlign: 'right' }}>Departure</Typography> 
             </Box>
             
-            <Box sx={{ position: 'relative', ml: '30px', pr: '10px' }}>
+            <Box sx={{ position: 'relative', ml: '110px', pr: '10px' }}> 
+                
                 <Box sx={{ position: 'absolute', top: 0, bottom: 0, left: 0, width: '4px', backgroundColor: '#3f4247' }} />
 
                 {stops.map((stop, index) => (
                     <Box key={index} sx={{ display: 'flex', mb: 3, position: 'relative' }}>
-                        <Box sx={{ position: 'absolute', right: '100%', mr: '15px', textAlign: 'right', whiteSpace: 'nowrap' }}>
+                        
+                        <Box sx={{ 
+                            position: 'absolute', 
+                            left: '-110px', 
+                            width: '100px', 
+                            textAlign: 'right', 
+                            whiteSpace: 'nowrap' 
+                        }}>
                             <Typography variant="body2" sx={{ color: '#a0a0a0' }}>{stop.arrival}</Typography>
                             <Typography variant="body2" sx={{ color: '#f26e2e' }}>{stop.arrivalActual}</Typography>
                         </Box>
+
                         <Box sx={{ width: '12px', height: '12px', borderRadius: '50%', backgroundColor: '#56a7f5', position: 'absolute', left: '-4px', top: '5px' }} />
 
                         <Box sx={{ ml: '25px', flexGrow: 1, minWidth: 0 }}>
